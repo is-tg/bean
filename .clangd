@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-IC:\\Users\\Tharun\\Documents\\projects\\SDL\\include"
+
