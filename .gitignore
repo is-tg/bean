@@ -1,7 +1,3 @@
-# Configs
-.clangd
-.clang-format
-
 # Prerequisites
 *.d
 
